@@ -47,12 +47,8 @@ section{
     font-size: 30px;
     text-align: center;
     font-weight: 1000;
-    position: sticky;
-    top: 0px;
 }
-section::-webkit-scrollbar{
-    background-color: aqua;
-}
+
 table{
     background-image:linear-gradient(90deg, rgb(73, 11, 11), rgb(43, 42, 42));
     padding: 10px;
